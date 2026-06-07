@@ -1,0 +1,44 @@
+# Generated assets and exports
+output/
+exports/
+dist/
+build/
+release/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+tmp/
+temp/
+.tmp/
+.cache/
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dependency and tool caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local worktrees
+.worktrees/
+worktrees/
